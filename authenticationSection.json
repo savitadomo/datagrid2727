@@ -16,6 +16,11 @@
       "label": "textpass",
       "value": "****",
       "type": "password"
+    },
+    {
+      "label": "new",
+      "value": "****",
+      "type": "password"
     }
   ],
   "additionalParameters": null,

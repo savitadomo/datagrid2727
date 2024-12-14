@@ -13,7 +13,12 @@
   "customAccountFields": [
     {
       "label": "textpass",
-      "value": "pass1234",
+      "value": "****",
+      "type": "password"
+    },
+    {
+      "label": "new",
+      "value": "12345678",
       "type": "password"
     }
   ],
