@@ -2,10 +2,10 @@
   "images": [],
   "name": "datagrid2727",
   "connectorType": "datagrid",
-  "type": "new",
+  "type": "basic",
   "authCodeText": null,
-  "userName": "",
-  "password": "",
+  "userName": "text",
+  "password": "12345678",
   "apiKey": "",
   "clientKey": "",
   "clientSecret": "",
@@ -18,7 +18,12 @@
     },
     {
       "label": "new",
-      "value": "12345678",
+      "value": "****",
+      "type": "password"
+    },
+    {
+      "label": "new1",
+      "value": "999999",
       "type": "password"
     }
   ],
