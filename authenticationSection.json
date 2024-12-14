@@ -1,9 +1,9 @@
 {
   "type": "new",
   "authCodeText": null,
-  "userName": "****",
-  "password": "****",
-  "apiKey": "****",
+  "userName": "",
+  "password": "",
+  "apiKey": "",
   "clientKey": "",
   "clientSecret": "",
   "authorizationURL": null,
@@ -13,17 +13,7 @@
   "scope": null,
   "customAccountFields": [
     {
-      "label": "pass",
-      "value": "****",
-      "type": "password"
-    },
-    {
-      "label": "text",
-      "value": "****",
-      "type": "password"
-    },
-    {
-      "label": "pass12",
+      "label": "textpass",
       "value": "****",
       "type": "password"
     }

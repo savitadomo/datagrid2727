@@ -4,25 +4,15 @@
   "connectorType": "datagrid",
   "type": "new",
   "authCodeText": null,
-  "userName": "text",
-  "password": "textpass",
-  "apiKey": "apikey",
+  "userName": "",
+  "password": "",
+  "apiKey": "",
   "clientKey": "",
   "clientSecret": "",
   "userId": null,
   "customAccountFields": [
     {
-      "label": "pass",
-      "value": "****",
-      "type": "password"
-    },
-    {
-      "label": "text",
-      "value": "pass123",
-      "type": "password"
-    },
-    {
-      "label": "pass12",
+      "label": "textpass",
       "value": "pass1234",
       "type": "password"
     }
