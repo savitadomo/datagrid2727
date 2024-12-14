@@ -1,11 +1,11 @@
 {
   "type": "new",
   "authCodeText": null,
-  "userName": null,
-  "password": null,
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "userName": "",
+  "password": "",
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
   "authorizationURL": null,
   "accessTokenURL": null,
   "oauthUserName": null,
@@ -14,6 +14,11 @@
   "customAccountFields": [
     {
       "label": "pass",
+      "value": "****",
+      "type": "password"
+    },
+    {
+      "label": "text",
       "value": "****",
       "type": "password"
     }
