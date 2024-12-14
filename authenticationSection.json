@@ -1,9 +1,9 @@
 {
   "type": "new",
   "authCodeText": null,
-  "userName": "",
-  "password": "",
-  "apiKey": "",
+  "userName": "****",
+  "password": "****",
+  "apiKey": "****",
   "clientKey": "",
   "clientSecret": "",
   "authorizationURL": null,
@@ -19,6 +19,11 @@
     },
     {
       "label": "text",
+      "value": "****",
+      "type": "password"
+    },
+    {
+      "label": "pass12",
       "value": "****",
       "type": "password"
     }
